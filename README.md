@@ -1,1 +1,3 @@
-# mktg_analytics
+# mktg analytics
+
+Customer Segmentation Using RFM Analysis 
